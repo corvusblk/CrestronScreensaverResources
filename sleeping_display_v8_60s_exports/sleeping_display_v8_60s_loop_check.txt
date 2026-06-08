@@ -1,0 +1,7 @@
+duration_seconds=60.066667
+rest_segment_seconds=48.0
+event_segment_seconds=12.0
+background=#2B5F51 Deep Sea Green
+expression=#DBEDED official Seafoam
+first_last_visual_difference_bbox=(0, 2, 1280, 800)
+last frame is an explicit duplicate of the starting rest frame for loopability.
